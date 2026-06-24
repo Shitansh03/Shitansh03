@@ -14,7 +14,7 @@ Currently seeking opportunities as a MERN Stack Developer to contribute to impac
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shitanshwankhede01@gmail.com](mailto:shitanshwankhede01@gmail.com)
-* 🚀  I'm currently working on [Tastes-Shit](http://https://tastes-shit.vercel.app/)
+* 🚀  I'm currently working on [Tastes-Shit](https://tastes-shit.vercel.app)
 * 👥  I'm looking to collaborate on MERN projects
 * 💬  Ask me about let's code together
 
